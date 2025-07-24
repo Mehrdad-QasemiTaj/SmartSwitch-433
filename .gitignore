@@ -1,0 +1,15 @@
+__Previews/
+History/
+Project Logs/
+*.PrjPCBStructure
+*.PrjPCBSettings
+*.PrjPCBVariants
+*.OutJob
+*.DRC
+*.ERC
+*.Log
+*.html
+*.xml
+*.csv
+*.txt
+*.pdf
