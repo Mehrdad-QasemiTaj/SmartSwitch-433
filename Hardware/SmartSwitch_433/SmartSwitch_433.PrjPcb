@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1025,11 +1025,13 @@ Net4=NetName=AC_N|NetColor=$00009900
 Net5=NetName=AC_OUTPUT|NetColor=$00336699
 Net6=NetName=GND|NetColor=$007F0311
 Net7=NetName=NetF?_1|NetColor=$00336699
-Net8=NetName=SRX_DATA|NetColor=$00990099
-Net9=NetName=uSCL|NetColor=$00FF6EFF
-Net10=NetName=uSDA|NetColor=$00FF6EFF
-Net11=NetName=uSWCLK|NetColor=$00FFFF6E
-Net12=NetName=uSWDIO|NetColor=$00FFFF6E
+Net8=NetName=NetF?_2|NetColor=clYellow
+Net9=NetName=SRX_DATA|NetColor=$00990099
+Net10=NetName=uSCL|NetColor=$00FF6EFF
+Net11=NetName=uSDA|NetColor=$00FF6EFF
+Net12=NetName=uSRX_DATA|NetColor=$00330066
+Net13=NetName=uSWCLK|NetColor=$00FFFF6E
+Net14=NetName=uSWDIO|NetColor=$00FFFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
